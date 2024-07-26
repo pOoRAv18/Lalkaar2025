@@ -133,7 +133,7 @@ const Gallery = () => {
               <div
                 className="col-sm-6 col-md-4 imageMarginGallery"
                 onClick={() => {
-                  localStorage.setItem('index', 4);
+                  localStorage.setItem('index', 7);
                   setCheck(true);
                 }}
               >
@@ -147,7 +147,7 @@ const Gallery = () => {
               <div
                 className="col-sm-6 col-md-4 imageMarginGallery"
                 onClick={() => {
-                  localStorage.setItem('index', 4);
+                  localStorage.setItem('index', 6);
                   setCheck(true);
                 }}
               >
@@ -161,7 +161,7 @@ const Gallery = () => {
               <div
                 className="col-sm-6 col-md-4 imageMarginGallery"
                 onClick={() => {
-                  localStorage.setItem('index', 4);
+                  localStorage.setItem('index', 7);
                   setCheck(true);
                 }}
               >
@@ -175,7 +175,7 @@ const Gallery = () => {
               <div
                 className="col-sm-6 col-md-4 imageMarginGallery"
                 onClick={() => {
-                  localStorage.setItem('index', 4);
+                  localStorage.setItem('index', 8);
                   setCheck(true);
                 }}
               >
@@ -189,7 +189,7 @@ const Gallery = () => {
               <div
                 className="col-sm-6 col-md-4 imageMarginGallery"
                 onClick={() => {
-                  localStorage.setItem('index', 4);
+                  localStorage.setItem('index', 9);
                   setCheck(true);
                 }}
               >
