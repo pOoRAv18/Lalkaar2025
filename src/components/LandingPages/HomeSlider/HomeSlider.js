@@ -32,7 +32,7 @@ function HomeSlider() {
             
                 </div>
                 <h1 className="mb-1 text-overflow-center spardha-21">
-                  Lalkaar&nbsp;2024
+                  Lalkaar&nbsp;2025
                 </h1>
                 <h2 className="text-overflow-center home-spardha-subheading">
                   NIT , Hamirpur
@@ -68,7 +68,7 @@ function HomeSlider() {
                 <img id="columnLogo" src={lalkaarpic} alt="lalkaar" />
                 </div>
                 <h1 className="mb-1 text-overflow-center spardha-21">
-                  Lalkaar&nbsp;2024
+                  Lalkaar&nbsp;2025
                 </h1>
                 <h2 className="text-overflow-center home-spardha-subheading">
                   NIT , Hamirpur
@@ -104,7 +104,7 @@ function HomeSlider() {
                 <img id="columnLogo" src={lalkaarpic} alt="lalkaar" />
                 </div>
                 <h1 className="mb-1 text-overflow-center spardha-21">
-                  Lalkaar&nbsp;2024
+                  Lalkaar&nbsp;2025
                 </h1>
                 <h2 className="text-overflow-center home-spardha-subheading">
                   NIT , Hamirpur
@@ -141,7 +141,7 @@ function HomeSlider() {
                 <img id="columnLogo" src={lalkaarpic} alt="lalkaar" />
                 </div>
                 <h1 className="mb-1 text-overflow-center spardha-21">
-                  Lalkaar&nbsp;2024
+                  Lalkaar&nbsp;2025
                 </h1>
                 <h2 className="text-overflow-center home-spardha-subheading">
                   NIT , Hamirpur

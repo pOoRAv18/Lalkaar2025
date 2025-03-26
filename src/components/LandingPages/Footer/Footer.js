@@ -67,9 +67,9 @@ const Footer = () => {
                           wordSpacing: '0.4em',
                           textDecoration: 'none',
                         }}
-                        href="tel:+917807727127"
+                        href="tel:+917876273862"
                       >
-                      &emsp;&emsp;+91&#8209;7807727127
+                      &emsp;&emsp;+91&#8209;7876273862
                       </a>
                     </span>
 
@@ -120,9 +120,9 @@ const Footer = () => {
                           wordSpacing: '0.4em',
                           textDecoration: 'none',
                         }}
-                        href="tel:+917876273862"
+                        href="tel:+917018388633"
                       >
-                        &emsp;&emsp;+91&#8209;7876273862
+                        &emsp;&emsp;+91&#8209;7018388633
                       </a>
                     </span>
                     <br />
@@ -146,9 +146,9 @@ const Footer = () => {
                           wordSpacing: '0.4em',
                           textDecoration: 'none',
                         }}
-                        href="tel:+918894224520"
+                        href="tel:+918219831072"
                       >
-                        &emsp;&emsp;+91&#8209;8894224520
+                        &emsp;&emsp;+91&#8209;8219831072
                       </a>
                     </span>
                     {/* </div> */}

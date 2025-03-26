@@ -2,157 +2,158 @@
     "conveners": [
       {
         "post": "Student Sports Secretary",
-        "name": "Unique Chander Azad",
-        "phone": "7807727127",
-        "image": "/images/team/unique_sir.jpg"
+        "name": "Ayush",
+        "phone": "7876273862",
+        "image": "/images/team/ayush.jpg"
         
       },
       {
         "post": "Student Sports Joint Secretary",
-        "name": "Nikhil Jamwal",
-        "phone": "9015019597",
-        "image": "/images/team/nikhil_sir.jpg"
+        "name": "Aditya Kapoor",
+        "phone": "7018388633",
+        "image": "/images/team/aditya2.jpeg"
         
       },
       {
         "post": "Student Sports Joint Secretary",
-        "name": "Kartik Thakur",
-        "phone": "8894224520",
-        "image": "/images/team/kartik_sir.jpeg"
+        "name": "Prajwal Sharma",
+        "phone": "7263000081",
+        "image": "/images/team/prajwal2.jpeg"
      
       }
     ],
   "games and sports council": [
     {
       "post": "Student Sports Joint Secretary",
-      "name": "Sarishti",
-      "phone": "9410166670",
-      "image": "/images/team/srishti_mam.jpeg"
+      "name": "Nitesh Kumar",
+      "phone": "6283693884",
+      "image": "/images/team/nitesh.jpg"
       
     },
     {
       "post": "Student Sports Joint Secretary",
-      "name": "Pragya  ",
-      "phone": "9120201417",
-      "image": "/images/team/pragya_mam.jpeg"
+      "name": "Anshul Sharma  ",
+      "phone": "8219831072",
+      "image": "/images/team/.jpeg"
       
     },
     {
-      "post": "Student Sports Joint Secretary",
-      "name": "Harshita Negi",
-      "phone": "6230022996",
-      "image": "/images/team/harshita_mam.jpeg"
-     
-    },
-    {
-      "post": "Student Sports Joint Secretary",
-      "name": "Pankaj Prajapathi",
-      "phone": "9672491462",
-      "image": "/images/team/pankaj_sir.jpg"
-    
-    },
-    {
-      "post": "Student Sports Joint Secretary",
-      "name": "Ananya Sharma",
-      "phone": "8219563956",
-      "image": "/images/team/ananya_mam.jpg"
-     
-    },
-    {
-      "post": "Student Sports Assistant Secretary",
-      "name": "Ayush",
-      "phone": "7876273862",
-
-      "image": "/images/team/ayush.jpg"
-     
-    },
-    {
-      "post": "Student Sports Assistant Secretary",
-      "name": "Aditya Kapoor",
-      "phone": "7018388633",
-      
-      "image": "/images/team/aditya.jpeg"
-     
-    },
-    {
-      "post": "Student Sports Assistant Secretary",
-      "name": "Anshal Sharma",
-      "phone": "9816960532",
-      
-      "image": "/images/team/anshal.png"
-      
-    },
-    {
-      "post": "Student Sports Assistant Secretary",
-      "name": "Prajwal Sharma",
-      "phone": "7263000081",
-      "image": "/images/team/prajwal.jpeg"
-      
-    },
-    {
-      "post": "Student Sports Assistant Secretary",
-      "name": "Shivam",
-      "phone": "7876836410",
-      "image": "/images/team/shivam.jpeg"
-     
-    },
-    {
-      "post": "Student Sports Assistant Secretary",
-      "name": "Ritu Matwa",
-      "phone": "8854994003",
-      
-      "image": "/images/team/ritu.jpeg"
-      
-    },
-    {
-      "post": "Executive Member",
+      "post": "Student Sports Technical Lead",
       "name": "Pushpender",
       "phone": "8544771408",
       "image": "/images/team/myself.jpeg"
+     
+    },
+    {
+      "post": "Student Sports Graphic Designer",
+      "name": "Sankalp Saini",
+      "phone": "9805971470",
+      "image": "/images/team/sankalp.jpeg"
+    
+    },
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Lucky Tanwar",
+      "phone": "9521007642",
+      "image": "/images/team/lucky.jpeg"
+     
+    },
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Aashish",
+      "phone": "8626865989",
+
+      "image": "/images/team/ashish.jpeg"
+     
+    },
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Harsh Kumar",
+      "phone": "9306130017",
+      
+      "image": "/images/team/harsh.jpeg"
+     
+    },
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Saksham Soni",
+      "phone": "9418967902",
+      
+      "image": "/images/team/soni.jpg"
+      
+    },
+    
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Sarthak",
+      "phone": "7018428665",
+  
+      "image": "/images/team/sarthak2.jpeg"
       
     },
     {
-      "post": "Executive Member",
-      "name": "Pankaj Thakur",
-      "phone": "8091784468",
-      "image": "/images/team/pankaj.jpg"
-      
-    },
-    {
-      "post": "Member",
+      "post": "Student Sports Assistant Secretary",
       "name": "Ishita Hawlader",
       "phone": "9933210226",
       "image": "/images/team/ishita.jpg"
+      
+    },
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Prachi Pathak",
+      "phone": "7879933879",
+      "image": "/images/team/prachi.jpeg"
+     
+    },
+    {
+      "post": "Student Sports Assistant Secretary",
+      "name": "Monika Sharma",
+      "phone": "9784368395",
+      
+      "image": "/images/team/.jpeg"
+      
+    },
+    {
+      "post": "Member",
+      "name": "Siddharth Pathania",
+      "phone": "9805800568",
+      "image": "/images/team/sid.jpeg"
+      
+    },
+    {
+      "post": "Member",
+      "name": "Amit Thakur",
+      "phone": "6230097494",
+      "image": "/images/team/.jpg"
+      
+    },
+    {
+      "post": "Member",
+      "name": "Sahil Tekta",
+      "phone": "8219119931",
+      "image": "/images/team/.jpg"
     
     },
     {
       "post": "Member",
-      "name": "Sarthak",
-      "phone": "7018428665",
-      "image": "/images/team/sarthak.jpg"
+      "name": "Ayush",
+      "phone": "9915228563",
+      "image": "/images/team/.jpg"
     
     },
     {
       "post": "Member",
-      "name": "Saksham Soni",
-      "phone": "9418967902",
+      "name": "Kartik Negi",
+      "phone": "8219418864",
     
-      "image": "/images/team/soni.jpg"
+      "image": "/images/team/.jpg"
      
     },
     {
       "post": "Member",
-      "name": "Akhil Sharma",
-      "phone": "7876584477",
-      "image": "/images/team/akhil.png"
-      
-    },
-    {
-      "post": "Member",
-      "name": "Nisar Ahmed",
-      "phone": "9103545773",
-  
-      "image": "/images/team/nisar.jpg"
+      "name": "Vishal",
+      "phone": "8278858595",
+      "image": "/images/team/.png"
       
     }
   ]}
